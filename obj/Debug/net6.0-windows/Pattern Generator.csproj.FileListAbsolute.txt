@@ -1,6 +1,0 @@
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern_Generator.Form1.resources
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern Generator.csproj.GenerateResource.cache
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern Generator.GeneratedMSBuildEditorConfig.editorconfig
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern Generator.AssemblyInfoInputs.cache
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern Generator.AssemblyInfo.cs
-D:\Github\Pattern Generator\obj\Debug\net6.0-windows\Pattern Generator.csproj.CoreCompileInputs.cache
